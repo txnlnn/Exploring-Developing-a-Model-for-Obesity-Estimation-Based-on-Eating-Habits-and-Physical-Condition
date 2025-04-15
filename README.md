@@ -1,12 +1,12 @@
-This repository contains the code and report for my project on "Exploring & Developing a Model for Obesity Estimation Based on Eating Habits and Physical Condition."
+This project aims to explore and develop a machine learning model to estimate obesity levels based on individuals' eating habits and physical condition data. It involves data preprocessing, model development, evaluation, and analysis using Python in a Google Colab environment.
 
-Google Colab Notebook:
-To access and run the code for this project, use the provided Google Colab notebook. 
-[GoogleCollab.ipynb](https://github.com/txnlnn/Exploring-Developing-a-Model-for-Obesity-Estimation-Based-on-Eating-Habits-and-Physical-Condition/blob/a55f6921ed01bfa4cf1dbc6451c42075211a91b1/GoogleCollab.ipynb)https://github.com/txnlnn/Exploring-Developing-a-Model-for-Obesity-Estimation-Based-on-Eating-Habits-and-Physical-Condition/blob/a55f6921ed01bfa4cf1dbc6451c42075211a91b1/GoogleCollab.ipynb
+#Overview
+The goal of this project is to predict obesity categories using classification models by analyzing behavioral, dietary, and physiological factors. The project utilizes a structured dataset and implements supervised learning techniques to build predictive models.
 
-Report:
-The full report for this project is available in PDF format.
-https://github.com/txnlnn/Exploring-Developing-a-Model-for-Obesity-Estimation-Based-on-Eating-Habits-and-Physical-Condition/blob/a55f6921ed01bfa4cf1dbc6451c42075211a91b1/1211301744_LeeTianXin_Report.pdf
+#Repository Contents
+📄 1211301744_LeeTianXin_Report.pdf – Full final report documenting project background, methodology, model results, and conclusions.
+
+💻 GoogleCollab.ipynb – Jupyter notebook hosted on Google Colab containing the code for data preprocessing, model training, evaluation, and visualization.
 
 Contributing:
 It is a completed individual project. 
